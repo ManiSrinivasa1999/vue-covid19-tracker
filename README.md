@@ -1,5 +1,7 @@
 # vue-covid-tracker
 
+## To view the site please [click here](https://covid19-tracker-mani.netlify.app/)
+
 ## Project setup
 ```
 yarn install
